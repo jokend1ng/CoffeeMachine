@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Java)/task/build/
+/Coffee Machine (Java)/task/out/
+/Coffee Machine (Java)/task/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Declaring a method/Greatest common divisor/out/
+/Topics/Declaring a method/Greatest common divisor/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
